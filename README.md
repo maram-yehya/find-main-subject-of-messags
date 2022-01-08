@@ -8,7 +8,7 @@ the results is sweets
 http://localhost:3000/users/mainSubject2:
 we will run our algorithim on a txt file that lalks about rice.
 http://localhost:3000/users/mainSubject3:
-we will add to the sweets messages messages about rice.
+we will add to the sweets messages messages about corona.
 
 
 clas user- id+ message to each user , adds the message to a file /usersData.txt.
